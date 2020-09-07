@@ -1,0 +1,14 @@
+.form {
+   width: 700px;
+   background:
+radial-gradient(circle at 50% 59%, #7f69ce 3%,#00ffaa 4%,#00ffaa 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 50px 0,
+radial-gradient(circle at 50% 41%,#00ffaa 3%, #7f69ce 4%, #7f69ce 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 50px 0,
+radial-gradient(circle at 50% 59%, #7f69ce 3%,#00ffaa 4%,#00ffaa 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 0 50px,
+radial-gradient(circle at 50% 41%,#00ffaa 3%, #7f69ce 4%, #7f69ce 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 0 50px,
+radial-gradient(circle at 100% 50%, #7f69ce 16%, rgba(210,202,171,0) 17%),
+radial-gradient(circle at 0% 50%,#00ffaa 16%, rgba(54,78,39,0) 17%),
+radial-gradient(circle at 100% 50%, #7f69ce 16%, rgba(210,202,171,0) 17%) 50px 50px,
+radial-gradient(circle at 0% 50%,#00ffaa 16%, rgba(54,78,39,0) 17%) 50px 50px;
+background-color:#e9edec;
+background-size:100px 100px; 
+}
