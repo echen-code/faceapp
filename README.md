@@ -1,1 +1,1 @@
-This project was bootstrapped with [Create React App]
+This app takes an image and detects faces!
